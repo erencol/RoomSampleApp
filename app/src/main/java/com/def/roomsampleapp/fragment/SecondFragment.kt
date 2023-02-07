@@ -1,4 +1,4 @@
-package com.def.roomsampleapp
+package com.def.roomsampleapp.fragment
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,6 +6,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.navigation.fragment.findNavController
+import com.def.roomsampleapp.R
 import com.def.roomsampleapp.databinding.FragmentSecondBinding
 
 /**
